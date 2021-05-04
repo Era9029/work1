@@ -1,12 +1,33 @@
 //homework1
-let secondsInHour = 60 * 60
-alert(secondsInHour)
+// Рассчитать, сколько секунд в одном часе. Результат вывести в консоль или на экран
+let secondsInHour = 60 * 60;
+alert(secondsInHour);
+
+
+
 //homework2
-let circleLength =2*3.14*6
-alert (circleLength)
+//Вычислить длину окружности. Pi считать за 3.14, радиус любой.
+// Результат вывести в консоль или на экран
+let circleLength =2*3.14*6;
+alert (circleLength);
+
+
+
 //homework3
+//Упростите следующие операции, количество строк должно быть тем же
 let num = 10
 num++
 num++
 num--
+alert(num)
+
+
+
+//homework4
+//Упростите следующие операции, количество строк должно быть тем же
+let nm=47;
+num +=7
+num -=18;
+num*=10;
+num /=15
 alert(num)
